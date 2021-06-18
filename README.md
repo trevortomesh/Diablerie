@@ -1,4 +1,4 @@
-# Diablerie
+# Diablerie - Dr. T Edition
 
 [![Windows Build Status](http://diablerie.zond.org/build/image/?target=win64)](http://diablerie.zond.org/download/?target=win64)
 
